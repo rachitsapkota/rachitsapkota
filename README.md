@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @rachitsapkota
-- 👀 I’m interested in web development (java,ms-sql,javascript,data ressearch
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-rachitsapkota/rachitsapkota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Rachit Sapkota!
+
+💻 Full-Stack Web Developer | Android & iOS App Developer
+🔒 Enthusiast in Ethical Hacking & Cybersecurity
+🌱 Always eager to learn new technologies and explore innovative solutions
+🤝 Open to collaborating with other developers and contributing to exciting projects
+🚀 Passionate about building efficient, scalable, and user-friendly applications
+
+Let’s connect and build something amazing together!
